@@ -1,4 +1,4 @@
-package helloworld.zd;
+package Head_First_Java.Ch01_Introduction;
 
 /**
  * Created by User on 25.07.2017.
